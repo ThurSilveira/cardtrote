@@ -3,5 +3,5 @@ function mensagem() {
 }
 
 function returnngit () {
-     window.location.href = 'https://thursilveira.github.io/cardtrote/';
+     window.location.href = 'https://thursilveira.github.io/trotesolidario/';
  }
